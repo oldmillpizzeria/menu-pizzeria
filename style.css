@@ -1,0 +1,17 @@
+body{background-image: url('images/bg.png'); color:#F8AC15}
+
+h1, h2, h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300; /* Grassetto */
+}
+
+h2, h3{
+    font-weight: 400; /* Grassetto */
+}
+.logo{width: 150px;}
+
+.head-area{
+    background-color: #F8AC15;
+}
+
+p.ingredient{color: #CA9E67; font-size: 15px;}
